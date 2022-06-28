@@ -17,3 +17,4 @@
 - `git merge` | faz a união das linhas do tempo (branch)
 - `git pull` | puxa a ultima versão do repositório remoto
 - `git push` | envia alterações locais para o repositório remoto
+  
