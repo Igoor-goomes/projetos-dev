@@ -14,3 +14,12 @@ HTML foi desenvolvido em 1991 com sua primeira versão sendo que á ultima vers�
 ## CSS
 
 Linguagem de estilo, para criação de regras de estilos para elementos, um regra como essa é formada por seletores (tags html) declarações (estilo).
+
+### ID x Classe
+
+- `id` | declaramos no CSS por um (#), vale lembre que o id só pode ser usado apenas uma vez na página
+- `class` | declaramos no CSS por um (.)
+- `margin` | espaçamento entre elementos
+- `border` | circundão o padding e o conteúdo, conseguimos fazer alterações nela
+- `padding`| espaçamento entre a border (borda) e o contéudo
+- `content` | contéudo
