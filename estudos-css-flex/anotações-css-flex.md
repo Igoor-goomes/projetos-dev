@@ -13,5 +13,5 @@
 - `flex-basic` | estabelece o tamanho inicial do item antes das distribuições de espaço restante dentro dele, usando como base o conteúdo interno disposto
 - `flex-shrink` | estabelece a capacidade de redução ou compressão do tamanho de um item
 - `flex` | atalho ou abreviação de escrita para as propriedades:grow, shrink e basis
-- `order` | 
+- `order` | verificar
 - `align-self` | estavele o alinhamento de modo individual sobre um determinado item
